@@ -10,3 +10,8 @@
   * [jsPanel](https://jspanel.de/index.html)
   * [IZMODAL](http://izimodal.marcelodolce.com)
   
+# Front-End Frameworks
+  * [BlueFly](https://buefy.org)
+  * [Bulma](https://bulma.io)
+  * [BootStrap](https://getbootstrap.com)
+  * [JQuery.ui](https://jqueryui.com)
