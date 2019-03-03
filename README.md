@@ -15,3 +15,4 @@
   * [Bulma](https://bulma.io)
   * [BootStrap](https://getbootstrap.com)
   * [JQuery.ui](https://jqueryui.com)
+  * [Vue.js](https://012.vuejs.org)
