@@ -16,3 +16,7 @@
   * [BootStrap](https://getbootstrap.com)
   * [JQuery.ui](https://jqueryui.com)
   * [Vue.js](https://012.vuejs.org)
+  
+# Javascripts books
+  * [Eloquent JavaScripts](https://eloquentjavascript.net)
+ 
