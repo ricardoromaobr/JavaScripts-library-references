@@ -9,6 +9,7 @@
   * [lobilist](https://lobianijs.com)
   * [jsPanel](https://jspanel.de/index.html)
   * [IZMODAL](http://izimodal.marcelodolce.com)
+  * [spinjs](https://spin.js.org/)
   
 # Front-End Frameworks
   * [BlueFly](https://buefy.org)
