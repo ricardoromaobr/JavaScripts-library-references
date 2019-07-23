@@ -8,7 +8,7 @@
 # Javascript Library
   * [lobilist](https://lobianijs.com)
   * [jsPanel](https://jspanel.de/index.html)
-  * [IZMODAL](http://izimodal.marcelodolce.com)
+  * [IZMODAL](http://izimodal.marcelodolza.com)
   * [spinjs](https://spin.js.org/)
   
 # Front-End Frameworks
