@@ -24,4 +24,11 @@
   
 # Charts
   * [CSJS](https://c3js.org)
+  * [CHARTIST](http://gionkunz.github.io/chartist-js)
+  * [http://dygraphs.com/](http://dygraphs.com)
+  * [http://www.flotcharts.org/](http://www.flotcharts.org)
+  * [http://nvd3.org](http://nvd3.org)
+  
+# ARTIGOS
+  * [OS VINTES MELHORES CAHRT LIBRARY](https://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries)
  
